@@ -1,3 +1,5 @@
 data/tf_representations/*.npz
 env/
 files
+.python-version
+data/tf_representations_ica/*.npz
